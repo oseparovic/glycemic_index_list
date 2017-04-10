@@ -1,0 +1,87 @@
+[
+  {
+    "name":"Potato",
+    "glycemicIndex":93,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Apple",
+    "glycemicIndex":39,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Apricot (fresh)",
+    "glycemicIndex":34,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Apricot (dried)",
+    "glycemicIndex":32,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Banana (under-ripe)",
+    "glycemicIndex":30,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Banana (ripe)",
+    "glycemicIndex":51,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Barley",
+    "glycemicIndex":27,
+    "category":"Grain products"
+  },
+  {
+    "name":"Carrots",
+    "glycemicIndex":35,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Chocoloate",
+    "glycemicIndex":42,
+    "category":"Confections"
+  },
+  {
+    "name":"Sweet corn",
+    "glycemicIndex":55,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Glucose (50g)",
+    "glycemicIndex":100,
+    "category":"Sweeteners"
+  },
+  {
+    "name":"Fructose (50g)",
+    "glycemicIndex":23,
+    "category":"Sweeteners"
+  },
+  {
+    "name":"Honey (pure)",
+    "glycemicIndex":58,
+    "category":"Sweeteners"
+  },
+  {
+    "name":"Mango (raw)",
+    "glycemicIndex":51,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Milk (full fat/whole)",
+    "glycemicIndex":41,
+    "category":"Dairy"
+  },
+  {
+    "name":"Milk (skim)",
+    "glycemicIndex":32,
+    "category":"Dairy"
+  },
+  {
+    "name":"Oranges",
+    "glycemicIndex":40,
+    "category":"Fruits and vegetables"
+  }
+]
