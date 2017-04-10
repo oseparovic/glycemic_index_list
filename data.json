@@ -1,5 +1,70 @@
 [
   {
+    "name":"Bagel, white bread",
+    "glycemicIndex":69,
+    "category":"Grain products"
+  },
+  {
+    "name":"Yam",
+    "glycemicIndex":54,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"White bread, wheat flour",
+    "glycemicIndex":71,
+    "category":"Grain products"
+  },
+  {
+    "name":"Sugar/Sucrose (50g)",
+    "glycemicIndex":58,
+    "category":"Sweeteners"
+  },
+  {
+    "name":"Soy milk",
+    "glycemicIndex":44,
+    "category":"Drinks"
+  },
+  {
+    "name":"Rice (white)",
+    "glycemicIndex":76,
+    "category":"Grain products"
+  },
+  {
+    "name":"Pumpkin",
+    "glycemicIndex":66,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Potato",
+    "glycemicIndex":83,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Pineapple",
+    "glycemicIndex":66,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Pear",
+    "glycemicIndex":33,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Peach",
+    "glycemicIndex":56,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Pasta",
+    "glycemicIndex":51,
+    "category":"Grain products"
+  },
+  {
+    "name":"Orange juice",
+    "glycemicIndex":46,
+    "category":"Drinks"
+  },
+  {
     "name":"Potato",
     "glycemicIndex":93,
     "category":"Fruits and vegetables"
