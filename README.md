@@ -20,3 +20,4 @@ Notes:
 
 * http://www.glycemicindex.com/foodSearch.php
 * https://www.diabetes.ca/diabetes-and-you/healthy-living-resources/diet-nutrition/the-glycemic-index
+* http://www.montignac.com/en/search-for-a-specific-glycemic-index/
