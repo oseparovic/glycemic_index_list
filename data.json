@@ -1,5 +1,100 @@
 [
   {
+    "name":"Almond milk",
+    "glycemicIndex":30,
+    "category":"Dairy"
+  },
+  {
+    "name":"Black beans",
+    "glycemicIndex":35,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Kidney/pinto beans",
+    "glycemicIndex":35,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Wild rice",
+    "glycemicIndex":35,
+    "category":"Grain products"
+  },
+  {
+    "name":"Coconut",
+    "glycemicIndex":35,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Oats",
+    "glycemicIndex":40,
+    "category":"Grain products"
+  },
+  {
+    "name":"Rice, brown, unpolished",
+    "glycemicIndex":50,
+    "category":"Grain products"
+  },
+  {
+    "name":"Sweet potatoes",
+    "glycemicIndex":50,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Rice, basmati",
+    "glycemicIndex":50,
+    "category":"Grain products"
+  },
+  {
+    "name":"Cranberries",
+    "glycemicIndex":45,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Coconut milk",
+    "glycemicIndex":40,
+    "category":"Dairy"
+  },
+  {
+    "name":"Dates (dried)",
+    "glycemicIndex":55,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Ketchup",
+    "glycemicIndex":55,
+    "category":"Condiments"
+  },
+  {
+    "name":"Molasses",
+    "glycemicIndex":70,
+    "category":"Sweeteners"
+  },
+  {
+    "name":"Rutabaga",
+    "glycemicIndex":70,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Watermelon",
+    "glycemicIndex":75,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Rice milk",
+    "glycemicIndex":85,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Tapioca",
+    "glycemicIndex":85,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Corn syrup",
+    "glycemicIndex":115,
+    "category":"Sweeteners"
+  },
+  {
     "name":"Soda crackers",
     "glycemicIndex":74,
     "category":"Grain products"
