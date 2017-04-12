@@ -1,5 +1,45 @@
 [
   {
+    "name":"Garlic",
+    "glycemicIndex":35,
+    "category":"Dairy"
+  },
+  {
+    "name":"Yogurt/yoghurt",
+    "glycemicIndex":35,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Tomatoes",
+    "glycemicIndex":30,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Redcurrant",
+    "glycemicIndex":25,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Cherries",
+    "glycemicIndex":25,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Gooseberry",
+    "glycemicIndex":25,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Blackberry",
+    "glycemicIndex":25,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Raspberry",
+    "glycemicIndex":25,
+    "category":"Fruits and vegetables"
+  },
+  {
     "name":"Lemon",
     "glycemicIndex":20,
     "category":"Fruits and vegetables"
