@@ -1,11 +1,41 @@
 [
   {
+    "name":"Lemon",
+    "glycemicIndex":20,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Artichoke",
+    "glycemicIndex":20,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Eggplant",
+    "glycemicIndex":20,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Peanuts",
+    "glycemicIndex":15,
+    "category":"Nuts and seeds"
+  },
+  {
+    "name":"Walnuts",
+    "glycemicIndex":15,
+    "category":"Nuts and seeds"
+  },
+  {
     "name":"Spinach",
     "glycemicIndex":15,
     "category":"Fruits and vegetables"
   },
   {
     "name":"Celery",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Cauliflower",
     "glycemicIndex":15,
     "category":"Fruits and vegetables"
   },
