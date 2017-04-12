@@ -1,5 +1,140 @@
 [
   {
+    "name":"Spinach",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Celery",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Brussels sprouts",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Radishes",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Ginger",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Onions",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Almonds",
+    "glycemicIndex":15,
+    "category":"Nuts and seeds"
+  },
+  {
+    "name":"Olives",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Broccoli",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Asparagus",
+    "glycemicIndex":15,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Avocado",
+    "glycemicIndex":10,
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Coffee",
+    "glycemicIndex":0,
+    "category":"Drinks"
+  },
+  {
+    "name":"Soy sauce (unsweetened)",
+    "glycemicIndex":0,
+    "category":"Condiments"
+  },
+  {
+    "name":"Vinegar",
+    "glycemicIndex":5,
+    "category":"Condiments"
+  },
+  {
+    "name":"Vinegar, balsamic",
+    "glycemicIndex":5,
+    "category":"Condiments"
+  },
+  {
+    "name":"Tea",
+    "glycemicIndex":0,
+    "category":"Drinks"
+  },
+  {
+    "name":"Fish (salmon, cod, tuna etc.)",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Beef",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Pork",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Lamb",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Ham",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Cold cuts",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Eggs",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Sausages",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Veal",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Chicken",
+    "glycemicIndex":0,
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Cheese (mozarella, gouda, cheddar, cottage etc.)",
+    "glycemicIndex":0,
+    "category":"Dairy"
+  },
+  {
     "name":"Almond milk",
     "glycemicIndex":30,
     "category":"Dairy"
