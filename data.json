@@ -1,5 +1,10 @@
 [
   {
+    "name":"Farro",
+    "glycemicIndex":40,
+    "category":"Grain products"
+  },
+  {
     "name":"Mustard (no added sugar)",
     "glycemicIndex":35,
     "category":"Condiments"
