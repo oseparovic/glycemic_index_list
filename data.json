@@ -1,5 +1,15 @@
 [
   {
+    "name":"Mustard (no added sugar)",
+    "glycemicIndex":35,
+    "category":"Condiments"
+  },
+  {
+    "name":"Mustard (sugar added)",
+    "glycemicIndex":55,
+    "category":"Condiments"
+  },
+  {
     "name":"Garlic",
     "glycemicIndex":35,
     "category":"Dairy"
